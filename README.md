@@ -51,7 +51,9 @@ Técnico en **Administración de Sistemas Informáticos en Red** con certificaci
 
 | Certificación | Entidad | Año |
 |---|---|---|
-| CCNA: Switching, Routing & Wireless | Cisco | 2026 |
+| CCNA - 1: Introduction to networks | Cisco | 2026 |
+| CCNA - 2: Switching, Routing & Wireless | Cisco | 2026 |
+| CCNA - 3: Business Networks, Security and Automation | Cisco | 2026 |
 | Network Security | Cisco | 2026 |
 | Linux Essentials | Cisco | 2026 |
 | Ethical Hacker | Cisco | 2026 |
