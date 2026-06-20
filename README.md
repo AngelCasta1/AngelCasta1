@@ -21,12 +21,10 @@ Técnico en **Administración de Sistemas Informáticos en Red** con certificaci
 ### 📊 GitHub Stats
 
 <div align="center">
-
 <a href="https://github.com/AngelCasta1">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AngelCasta1&show_icons=true&bg_color=00000000&title_color=0BBBB1&text_color=c9d1d9&icon_color=0BBBB1&hide_border=true&ring_color=0BBBB1&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCasta1&layout=compact&bg_color=00000000&title_color=0BBBB1&text_color=c9d1d9&hide_border=true&langs_count=8" />
 </a>
-
 </div>
 
 ---
@@ -39,11 +37,17 @@ Técnico en **Administración de Sistemas Informáticos en Red** con certificaci
 
 ### 🚀 Proyectos
 
-#### 🌐 Plataforma Web de Oposiciones  
-`HTML` `CSS` `JavaScript` 
+#### 🛡️ SentinelLab — Mini-SOC de Detección y Respuesta
+`Wazuh` `Suricata` `Snort` `YARA` `Sigma` `SIEM` `Threat Intelligence` `OpenVAS` `DefectDojo`
+Laboratorio casero de ciberseguridad que recorre el ciclo completo de un SOC: centralización de logs, detección en red y endpoint, correlación de eventos en SIEM, threat intelligence y gestión de vulnerabilidades.
 
-#### 📡 Monitorización de Red y Servidores  
+#### 📡 TechSolutions AI — TFG: Monitorización de Red y Servidores
 `Linux` `Bash` `Wazuh` `Grafana` `Windows Server` `Active Directory` `PostgreSQL` `Crontab`
+Infraestructura corporativa virtualizada orientada a la seguridad informática, la monitorización de eventos en tiempo real y la automatización de tareas.
+
+#### 🌐 Plataforma Web de Oposiciones
+`HTML` `CSS` `JavaScript`
+Plataforma de estudio offline-first con temario íntegro y tests interactivos para oposiciones de la Comunidad de Madrid.
 
 ---
 
