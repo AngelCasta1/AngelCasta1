@@ -48,7 +48,7 @@ Infraestructura corporativa virtualizada orientada a la seguridad informática, 
 `HTML` `CSS` `JavaScript`
 Plataforma de estudio offline-first con temario íntegro y tests interactivos para oposiciones de la Comunidad de Madrid.
 
-#### 🌐 GymTrack - App privada de seguimiento de gimnasio
+#### 🏋🏻 GymTrack - App privada de seguimiento de gimnasio
 `HTML` `CSS` `JavaScript`
 App web privada (PWA) para seguimiento de gimnasio: entrenos, drop sets, rutinas, calendario, medidas y gráficas. Tus datos nunca salen de tu dispositivo.
 
