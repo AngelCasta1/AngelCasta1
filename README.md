@@ -23,7 +23,7 @@ System Administration, Networking, and Cybersecurity.
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Cybersecurity" width="400" src="AboutMe.png"/>
+<img align="right" alt="Cybersecurity" width="520" src="AboutMe.png"/>
 
 📒 Currently improving my skills in Cloud and Cybersecurity.
 
@@ -40,21 +40,20 @@ System Administration, Networking, and Cybersecurity.
 ### 🧲 Connect Me
 
 <p align="left">
-  <a href="mailto:angelcasta1.contacto@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-  </a>
+  <a href="mailto:tuemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"></a>
+  <a href="https://linkedin.com/in/tuusuario"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"></a>
+  <a href="https://github.com/AngelCasta1"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"></a>
+  <a href="CV_Angel_Castaño.pdf" target="_blank"><img src="https://img.icons8.com/color/96/document.png" height="50"></a>
+</p>
 
-  <a href="https://www.linkedin.com/in/angelcasta1/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
 
-<a href="https://tuportfolio.com">
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="50">
+  
 </a>
+
 </p>
 <br>
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
 <img height="170" src="https://github-readme-stats-sable-two-83.vercel.app/api?username=AngelCasta1&show_icons=true&bg_color=00000000&title_color=0BBBB1&text_color=c9d1d9&icon_color=0BBBB1&hide_border=true&ring_color=0BBBB1&count_private=true" />
@@ -82,44 +81,45 @@ System Administration, Networking, and Cybersecurity.
     <img src="img/blueteam.png" height="48" alt="Blue Team"/>
   </p>
 
+<br>
+
+<h3 align="center">⭐ Best Repositories</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=SentinelLab-Mini-SOC-de-Deteccion-y-Respuesta&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=GymTrack-App-Seguimiento-Gimnasio&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=Oposiciones-CAM&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=TechSolutions-AI&theme=github_dark&hide_border=true" />
+</p>
+
+<br>
+
+<h3 align="center">🎓 Certifications</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CCNA_1-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/CCNA_2-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/CCNA_3-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Network_Security-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_Essentials-Cisco-1BA0D7?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethical_Hacker-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL_Database_Administration-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database_Design_&_Programming-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
 
 
-
-
-### 🚀 Proyectos
-
-#### 🛡️ SentinelLab — Mini-SOC de Detección y Respuesta
-`Wazuh` `Suricata` `Snort` `YARA` `Sigma` `SIEM` `Threat Intelligence` `OpenVAS` `DefectDojo`
-Laboratorio casero de ciberseguridad que recorre el ciclo completo de un SOC: centralización de logs, detección en red y endpoint, correlación de eventos en SIEM, threat intelligence y gestión de vulnerabilidades.
-
-#### 📡 TechSolutions AI — TFG: Monitorización de Red y Servidores
-`Linux` `Bash` `Wazuh` `Grafana` `Windows Server` `Active Directory` `PostgreSQL` `Crontab`
-Infraestructura corporativa virtualizada orientada a la seguridad informática, la monitorización de eventos en tiempo real y la automatización de tareas.
-
-#### 🌐 Plataforma Web de Oposiciones
-`HTML` `CSS` `JavaScript`
-Plataforma de estudio offline-first con temario íntegro y tests interactivos para oposiciones de la Comunidad de Madrid.
-
-#### 🏋🏻 GymTrack - App privada de seguimiento de gimnasio
-`HTML` `CSS` `JavaScript`
-App web privada (PWA) para seguimiento de gimnasio: entrenos, drop sets, rutinas, calendario, medidas y gráficas. Tus datos nunca salen de tu dispositivo.
-
-
-
-### 🎓 Certificaciones
-
-| Certificación | Entidad | Año |
-|---|---|---|
-| CCNA - 1: Introduction to networks | Cisco | 2026 |
-| CCNA - 2: Switching, Routing & Wireless | Cisco | 2026 |
-| CCNA - 3: Business Networks, Security and Automation | Cisco | 2026 |
-| Network Security | Cisco | 2026 |
-| Linux Essentials | Cisco | 2026 |
-| Ethical Hacker | Cisco | 2026 |
-| MySQL Database Administration | Oracle | 2025 |
-| Database Design & Programming | Oracle | 2025 |
-
-
-
+angel@github:~$ whoami
+System Administrator | Network Engineer | Cybersecurity
 
 
