@@ -23,7 +23,7 @@ System Administration, Networking, and Cybersecurity.
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Cybersecurity" width="520" src="AboutMe.png"/>
+<img align="right" alt="Cybersecurity" width="520" src="img/AboutMe.png"/>
 
 📒 Currently improving my skills in Cloud and Cybersecurity.
 
@@ -117,9 +117,9 @@ System Administration, Networking, and Cybersecurity.
 <img src="https://img.shields.io/badge/Database_Design_&_Programming-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </p>
-
-
-angel@github:~$ whoami
-System Administrator | Network Engineer | Cybersecurity
+<br>
+<p align="center">
+  <img src="img/Footer.jpg" width="100%" alt="Footer">
+</p>
 
 
