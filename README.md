@@ -20,24 +20,22 @@ System Administration, Networking, and Cybersecurity.
   <img src="https://img.shields.io/github/stars/AngelCasta1?affiliations=OWNER&style=for-the-badge&color=white"/>
 </p>
 
-### 👨‍💻 About Me
-<table>
-<tr>
-<td width="50%" valign="top">
 
-🔭 Currently improving my skills in Cloud and Cybersecurity.<br>
-🌐 Cisco CCNA (1, 2 & 3), Ethical Hacker, Network Security & Linux Essentials certified.<br>
-💼 Hands-on IT Support experience at Accenture in healthcare environments.<br>
-🐍 Learning Python and Bash for automation.<br>
+### 👨‍💻 About Me
+
+<img align="right" alt="Cybersecurity" width="400" src="AboutMe.png"/>
+
+🔭 Currently improving my skills in Cloud and Cybersecurity.
+
+🌐 Cisco CCNA (1, 2 & 3), Ethical Hacker, Network Security & Linux Essentials certified.
+
+💼 Hands-on IT Support experience at Accenture in healthcare environments.
+
+🐍 Learning Python and Bash for automation.
+
 🎯 Goal: Build a career as a System & Network Administrator / Cybersecurity Engineer.
 
-</td>
-
-<td width="50%" align="center">
-  <img src="AboutMe.png" width="360">
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ### 🧲 Connect Me
 
