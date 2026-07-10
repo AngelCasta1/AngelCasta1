@@ -62,13 +62,29 @@ System Administration, Networking, and Cybersecurity.
 <img height="170" src="https://github-readme-stats-sable-two-83.vercel.app/api/top-langs/?username=AngelCasta1&layout=compact&bg_color=00000000&title_color=0BBBB1&text_color=c9d1d9&hide_border=true&langs_count=8" />
 </div>
 
----
+<br>
 
-### 🛠️ Stack
+<h3 align="center">📚 Languages, Technologies & Tools I Have Placed My Hands On</h3> 
 
-![Skills](https://skillicons.dev/icons?i=linux,bash,python,mysql,git,docker&theme=dark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,kali,arch,bash,powershell,python&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,postgresql,mysql,git,github,grafana&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,astro,vscode,notion,obsidian&theme=dark" />
+</p>
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/cisco" height="48" alt="Cisco"/>
+    <img src="https://cdn.simpleicons.org/virtualbox" height="48" alt="VirtualBox"/>
+    <img src="https://cdn.simpleicons.org/nginx" height="48" alt="Nginx"/>
+    <img src="https://cdn.simpleicons.org/wireshark" height="48" alt="Wireshark"/>
+    <img src="img/wazuh.svg" height="48" alt="Wazuh"/>
+    <img src="img/Yara_logo.svg" height="48" alt="YARA"/>
+    <img src="img/redteam.png" height="48" alt="Red Team"/>
+    <img src="img/blueteam.png" height="48" alt="Blue Team"/>
+  </p>
 
----
+
+
+
 
 ### 🚀 Proyectos
 
@@ -88,7 +104,7 @@ Plataforma de estudio offline-first con temario íntegro y tests interactivos pa
 `HTML` `CSS` `JavaScript`
 App web privada (PWA) para seguimiento de gimnasio: entrenos, drop sets, rutinas, calendario, medidas y gráficas. Tus datos nunca salen de tu dispositivo.
 
----
+
 
 ### 🎓 Certificaciones
 
@@ -103,14 +119,7 @@ App web privada (PWA) para seguimiento de gimnasio: entrenos, drop sets, rutinas
 | MySQL Database Administration | Oracle | 2025 |
 | Database Design & Programming | Oracle | 2025 |
 
----
 
-<div align="center">
-
-### 💡 Disponible para trabajar — Madrid, España 🇪🇸
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0BBBB1?style=for-the-badge)](https://angelcastano.dev)
-[![CV](https://img.shields.io/badge/📄_Descargar_CV-0d1117?style=for-the-badge)](https://github.com/AngelCasta1/AngelCasta1/blob/main/CV_Angel_Casta%C3%B1o.pdf)
 
 
 
