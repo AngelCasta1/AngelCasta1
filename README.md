@@ -86,13 +86,13 @@ System Administration, Networking, and Cybersecurity.
 <h3 align="center">⭐ Best Repositories</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=SentinelLab-Mini-SOC-de-Deteccion-y-Respuesta&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=GymTrack-App-Seguimiento-Gimnasio&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=SentinelLab-Mini-SOC-de-Deteccion-y-Respuesta&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=true" />  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=GymTrack-App-Seguimiento-Gimnasio&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=Oposiciones-CAM&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=TechSolutions-AI&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=Oposiciones-CAM&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelCasta1&repo=TechSolutions-AI&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=true" />
 </p>
 
 <br>
