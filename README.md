@@ -25,13 +25,13 @@ System Administration, Networking, and Cybersecurity.
 
 <img align="right" alt="Cybersecurity" width="400" src="AboutMe.png"/>
 
-🔭 Currently improving my skills in Cloud and Cybersecurity.
+📒 Currently improving my skills in Cloud and Cybersecurity.
 
 🌐 Cisco CCNA (1, 2 & 3), Ethical Hacker, Network Security & Linux Essentials certified.
 
 💼 Hands-on IT Support experience at Accenture in healthcare environments.
 
-🐍 Learning Python and Bash for automation.
+⌨️ Learning Python and Bash for automation.
 
 🎯 Goal: Build a career as a System & Network Administrator / Cybersecurity Engineer.
 
