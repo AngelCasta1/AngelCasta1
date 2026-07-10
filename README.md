@@ -1,22 +1,60 @@
-<div align="center">
+<img src="BannerAngel.png">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0BBBB1&height=150&section=header&text=Ángel%20Castaño%20Arias&fontSize=36&fontColor=FAF8F6&animation=fadeIn&fontAlignY=35&desc=SysAdmin%20·%20Redes%20·%20Ciberseguridad&descSize=14&descAlignY=55" width="100%" />
+<h1 align="center">Hi, I'm Ángel Castaño 👋</h1>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0BBBB1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1ngel-casta%C3%B1o-arias-8242b8342/)
-[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AngelCasta1)
-[![Email](https://img.shields.io/badge/-Email-0BBBB1?style=flat-square&logo=gmail&logoColor=white)](mailto:angelcasta1.contacto@gmail.com)
+😁 I'm a Network and Systems Administration (ASIR) graduate passionate about
+IT infrastructure, networking, and cybersecurity.
+I hold Cisco CCNA (1, 2, and 3), Ethical Hacker, Network Security, and
+Linux Essentials certifications. I have hands-on experience providing IT
+support at Accenture in hospitals and healthcare centers across Madrid,
+working with Windows environments, Active Directory, TCP/IP, VPNs, Cisco
+devices, and ITIL-based incident management.
+I'm currently expanding my skills in Cybersecurity and AWS technologies while pursuing opportunities in
+System Administration, Networking, and Cybersecurity.
 
-</div>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AngelCasta1&label=Profile+Views&color=2B2B2B&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/AngelCasta1?label=Followers&style=for-the-badge&color=white"/>
+  <img src="https://img.shields.io/github/stars/AngelCasta1?affiliations=OWNER&style=for-the-badge&color=white"/>
+</p>
 
----
+### 👨‍💻 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 👨‍💻 Sobre mí
+🔭 Currently improving my skills in Cloud and Cybersecurity.<br>
+🌐 Cisco CCNA (1, 2 & 3), Ethical Hacker, Network Security & Linux Essentials certified.<br>
+💼 Hands-on IT Support experience at Accenture in healthcare environments.<br>
+🐍 Learning Python and Bash for automation.<br>
+🎯 Goal: Build a career as a System & Network Administrator / Cybersecurity Engineer.
 
-Técnico en **Administración de Sistemas Informáticos en Red** con certificación **Cisco CCNA** (1, 2 y 3), **Ethical Hacker**, **Network Security** y **Linux Essentials**. Experiencia real en soporte IT con **Accenture** en hospitales y centros de salud de Madrid.
+</td>
 
-> 🔥 **20+ tickets diarios · 95% resolución en primer contacto** bajo marco ITIL.
+<td width="50%" align="center">
+  <img src="AboutMe.png" width="360">
+</td>
+</tr>
+</table>
 
----
+### 🧲 Connect Me
+
+<p align="left">
+  <a href="mailto:angelcasta1.contacto@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/angelcasta1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+
+<a href="https://tuportfolio.com">
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="50">
+</a>
+</p>
+<br>
 
 ### 📊 GitHub Stats
 
@@ -30,7 +68,7 @@ Técnico en **Administración de Sistemas Informáticos en Red** con certificaci
 
 ### 🛠️ Stack
 
-`Windows Server` `Linux` `Active Directory` `PowerShell` `Bash` `Python` `MySQL` `TCP/IP` `VLAN` `VPN` `Cisco IOS` `ServiceNow` `ITIL` `Azure` `VirtualBox` `Packet Tracer` `HTML5` `CSS` `JavaScript` `Astro` `Bootstrap` `PHP` `Office 365`
+![Skills](https://skillicons.dev/icons?i=linux,bash,python,mysql,git,docker&theme=dark)
 
 ---
 
@@ -76,6 +114,5 @@ App web privada (PWA) para seguimiento de gimnasio: entrenos, drop sets, rutinas
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0BBBB1?style=for-the-badge)](https://angelcastano.dev)
 [![CV](https://img.shields.io/badge/📄_Descargar_CV-0d1117?style=for-the-badge)](https://github.com/AngelCasta1/AngelCasta1/blob/main/CV_Angel_Casta%C3%B1o.pdf)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0BBBB1&height=100&section=footer" width="100%" />
 
-</div>
+
