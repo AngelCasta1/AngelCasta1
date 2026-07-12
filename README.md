@@ -1,4 +1,6 @@
-<img src="BannerAngel.png">
+<p align="center">
+  <img src="BannerVideo.gif" width="100%">
+</p>
 
 <h1 align="center">Hi, I'm Ángel Castaño 👋</h1>
 <br>
